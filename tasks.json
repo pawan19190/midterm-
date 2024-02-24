@@ -1,0 +1,37 @@
+[
+  {
+    "taskId": 1,
+    "title": "Complete Project Proposal",
+    "description": "Prepare and submit the project proposal by end of the week",
+    "status": "Incomplete",
+    "assignedTo": "John Doe"
+  },
+  {
+    "taskId": 2,
+    "title": "Review Code Changes",
+    "description": "Review the recent code changes and provide feedback",
+    "status": "Pending Review",
+    "assignedTo": "Jane Smith"
+  },
+  {
+    "taskId": 3,
+    "title": "Update User Interface",
+    "description": "Implement new designs for the user interface",
+    "status": "In Progress",
+    "assignedTo": "Alice Johnson"
+  },
+  {
+    "taskId": 4,
+    "title": "Fix Bug in Payment Module",
+    "description": "Investigate and fix the bug reported in the payment module",
+    "status": "Assigned",
+    "assignedTo": "John Doe"
+  },
+  {
+    "taskId": 5,
+    "title": "Prepare Presentation Slides",
+    "description": "Create slides for the upcoming client presentation",
+    "status": "Complete",
+    "assignedTo": "Jane Smith"
+  }
+]
